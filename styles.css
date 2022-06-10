@@ -42,21 +42,7 @@ div {
 	white-space: nowrap;
 }
 
-.color{
-	font-family: "Cormorant Garamond", Light;
-	background-color: rgb(255, 255, 185);
-	color: rgb(0, 0, 0);
-	font-size: 20px;
-}
-
-.place{
-	font-family: "Cormorant Garamond", Light;
-	background-color: rgb(255, 255, 185);
-	color: rgb(0, 0, 0);
-	font-size: 20px;
-}
-
-.ritual{
+.buttons{
 	font-family: "Cormorant Garamond", Light;
 	background-color: rgb(255, 255, 185);
 	color: rgb(0, 0, 0);
