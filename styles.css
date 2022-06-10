@@ -1,0 +1,64 @@
+body {
+  background: rgb(132, 167, 138);
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Cormorant Garamond", Light;
+}
+
+nav {
+	border-bottom: 2px solid rgb(58, 90, 65);
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: rgb(58, 90, 65);
+}
+
+a:visited {
+	color: rgb(255, 255, 255);
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 600px;
+	
+}
+
+div {
+	white-space: nowrap;
+}
+
+.color{
+	font-family: "Cormorant Garamond", Light;
+	background-color: rgb(255, 255, 185);
+	color: rgb(0, 0, 0);
+	font-size: 20px;
+}
+
+.place{
+	font-family: "Cormorant Garamond", Light;
+	background-color: rgb(255, 255, 185);
+	color: rgb(0, 0, 0);
+	font-size: 20px;
+}
+
+.ritual{
+	font-family: "Cormorant Garamond", Light;
+	background-color: rgb(255, 255, 185);
+	color: rgb(0, 0, 0);
+	font-size: 20px;
+}
